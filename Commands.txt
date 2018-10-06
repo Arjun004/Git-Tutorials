@@ -32,4 +32,15 @@ git log --author="Author name"
 you can also do
 git add name.txt
 
+git diff //to find the differences between files in the working directory and the repository
+
+
+comparing staging and repository
+git diff --staged
+
+git diff compares working copy with repository
+git diff -- staged compares staging copy with repository
+
+
+
 
