@@ -42,5 +42,11 @@ git diff compares working copy with repository
 git diff -- staged compares staging copy with repository
 
 
+how to delete files
+git rm Third.txt
+
+
+
+
 
 
