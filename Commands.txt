@@ -46,6 +46,16 @@ how to delete files
 git rm Third.txt
 
 
+------------------------------------------------------------------------
+renaming a file
+
+git mv First.txt home.txt
+
+
+
+adding files directly to repository from working copy
+git commit -am "comments"
+
 
 
 
