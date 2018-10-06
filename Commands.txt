@@ -72,7 +72,7 @@ now if you type git remote you will get the githubrepo
 Pushing to Git hub
 git push -u githubrepo master   //this pushes all the files to github repository
 
-well adding this as well
+
 
 
 
