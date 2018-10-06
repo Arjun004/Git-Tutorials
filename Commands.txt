@@ -60,6 +60,10 @@ to undo changes in the working directory and bring a copy from repository
 git checkout -- filename.txt
 
 
+Getting Old Versions from the Repository
+
+
+
 
 
 
