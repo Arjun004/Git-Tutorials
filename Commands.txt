@@ -67,9 +67,10 @@ Setting Remote service
 git remote add githubrepo https://github.com/Arjun004/Git-Tutorials.git
 
 now if you type git remote you will get the githubrepo
+--------------------------------------------------------------------
 
-
-
+Pushing to Git hub
+git push -u githubrepo master   //this pushes all the files to github repository
 
 
 
