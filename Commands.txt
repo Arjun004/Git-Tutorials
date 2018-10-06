@@ -63,6 +63,13 @@ git checkout -- filename.txt
 Getting Old Versions from the Repository
 git checkout f3183c3276333bff0df8acaa2015e19f704f70ad -- Commands.txt
 
+Setting Remote service
+git remote add githubrepo https://github.com/Arjun004/Git-Tutorials.git
+
+now if you type git remote you will get the githubrepo
+
+
+
 
 
 
