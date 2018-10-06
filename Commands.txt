@@ -29,4 +29,7 @@ git commit -m "detail message"
 git log   //gives the logs of the commits
 git log --author="Author name"
 
+you can also do
+git add name.txt
+
 
