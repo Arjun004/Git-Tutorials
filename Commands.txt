@@ -56,6 +56,10 @@ git mv First.txt home.txt
 adding files directly to repository from working copy
 git commit -am "comments"
 
+to undo changes in the working directory and bring a copy from repository
+git checkout -- filename.txt
+
+
 
 
 
