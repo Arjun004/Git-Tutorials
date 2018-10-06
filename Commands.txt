@@ -24,3 +24,9 @@ git add .   //add the file to the staging area
 git status   //compares between staging and local repository
 
 git commit -m "detail message"
+
+
+git log   //gives the logs of the commits
+git log --author="Author name"
+
+
