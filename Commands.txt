@@ -20,3 +20,7 @@ git init //to initialize local repository
 
 ls -la //shows all the hidden files
 
+git add .   //add the file to the staging area
+git status   //compares between staging and local repository
+
+git commit -m "detail message"
