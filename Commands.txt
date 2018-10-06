@@ -1,0 +1,22 @@
+git config --global user.name "Arjun"
+git config --global user.email "arjun.nv04@gmail.com"
+
+git config --list
+clear
+
+git help
+for ex: git help commit
+
+
+pwd  //this is for find the home directory
+
+cd ..
+
+ls //to list whatever present in the folder
+
+--------------------------------------------------------------------
+git init //to initialize local repository
+
+
+ls -la //shows all the hidden files
+
